@@ -1,0 +1,10 @@
+{
+  "description": "Celebra el cumpleaños de Ruta N el 11 de noviembre y presenta los avances de la corporación con una landing visual e informativa.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
